@@ -143,7 +143,7 @@ if not DEBUG:
 # cors Authorization
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:5173',
-    'https://todo-app-peak.onrender.com/',
+    'https://todo-app-peak.onrender.com',
 ]
 
 # CoreAPI Schema
